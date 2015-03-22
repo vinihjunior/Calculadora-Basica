@@ -1,4 +1,4 @@
-//CALCULADORA_BASICA_V_2.0
+//CALCULADORA_BASICA_VERSION_2.0
 //@author: Vinicius Junior
 
 #include <math.h>
